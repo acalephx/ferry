@@ -163,3 +163,6 @@ QQ群 4：493389089
 [MIT](https://github.com/lanyulei/ferry/blob/master/LICENSE)
 
 Copyright (c) 2022 lanyulei
+
+
+ferry server -c=config/settings.dev.yml
